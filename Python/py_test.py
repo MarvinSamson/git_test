@@ -1,4 +1,4 @@
 list = ["Hi,", "Marvin."]
 
 for item in list:
-    print(item)
+    print(item, end = " ")
